@@ -6,7 +6,7 @@
     "esModuleInterop": true,
     "outDir": "dist",
     "declaration": true,
-    "rootDirs": ["./src", "./contracts", "./test", "./scripts"]
+    "rootDirs": ["./src", "./contracts", "./test", "./scripts", "./helpers"]
   },
   "exclude": ["dist", "node_modules"],
   "include": ["./scripts", "./test", "./typechain"],
